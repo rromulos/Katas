@@ -68,6 +68,7 @@ My collection of KATAS in PHP, SQL, GO, Javascript and Java.
 
 | Name         | Level                                               |
 | ----------------- | ---------------------------------------------------------------- |
+| All unique    | 7kyu |
 | Delete a digit    | 7kyu |
 | How many animals are there    | 7kyu |
 | Sort array by string length    | 7kyu |
