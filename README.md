@@ -68,6 +68,7 @@ My collection of KATAS in PHP, SQL, GO, Javascript and Java.
 
 | Name         | Level                                               |
 | ----------------- | ---------------------------------------------------------------- |
+| Collatz conjecture length    | 7kyu |
 | All unique    | 7kyu |
 | Delete a digit    | 7kyu |
 | How many animals are there    | 7kyu |
