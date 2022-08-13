@@ -68,6 +68,7 @@ My collection of KATAS in PHP, SQL, GO, Javascript and Java.
 
 | Name         | Level                                               |
 | ----------------- | ---------------------------------------------------------------- |
+| String incrementer    | 5kyu |
 | Check if two words are isomorphic to each other    | 6kyu |
 | Unique in order    | 6kyu |
 | Collatz conjecture length    | 7kyu |
