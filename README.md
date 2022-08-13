@@ -69,6 +69,7 @@ My collection of KATAS in PHP, SQL, GO, Javascript and Java.
 | Name         | Level                                               |
 | ----------------- | ---------------------------------------------------------------- |
 | Check if two words are isomorphic to each other    | 6kyu |
+| unique in order    | 6kyu |
 | Collatz conjecture length    | 7kyu |
 | All unique    | 7kyu |
 | Delete a digit    | 7kyu |
