@@ -74,6 +74,7 @@ My collection of KATAS in PHP, SQL, GO, Javascript and Java.
 | Unique in order    | 6kyu |
 | How many pages in a book    | 6kyu |
 | Collatz conjecture length    | 7kyu |
+| Don't give me five    | 7kyu |
 | All unique    | 7kyu |
 | Delete a digit    | 7kyu |
 | How many animals are there    | 7kyu |
