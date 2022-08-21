@@ -73,6 +73,7 @@ My collection of KATAS in PHP, SQL, GO, Javascript and Java.
 | Check if two words are isomorphic to each other    | 6kyu |
 | Unique in order    | 6kyu |
 | How many pages in a book    | 6kyu |
+| VIN checker    | 6kyu |
 | Collatz conjecture length    | 7kyu |
 | Don't give me five    | 7kyu |
 | All unique    | 7kyu |
