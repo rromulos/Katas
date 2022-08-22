@@ -8,6 +8,7 @@ My collection of KATAS in PHP, SQL, GO, Javascript and Java.
 
 | Name         | Level                                               |
 | ----------------- | ---------------------------------------------------------------- |
+| Where my anagrams at    | 5kyu |
 | Rgb to hex conversion    | 5kyu |
 | The hashtag generator     | 5kyu |
 | Bit counting     | 6kyu |
