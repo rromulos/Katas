@@ -11,6 +11,7 @@ My collection of KATAS in PHP, SQL, GO, Javascript and Java.
 | Where my anagrams at    | 5kyu |
 | Rgb to hex conversion    | 5kyu |
 | The hashtag generator     | 5kyu |
+| Who likes it     | 6kyu |
 | Bit counting     | 6kyu |
 | Convert string to cancel case     | 6kyu |
 | Count the smiley faces     | 6kyu |
