@@ -68,7 +68,8 @@ My collection of KATAS in PHP, SQL, GO, Javascript and Java.
 
 | Name         | Level                                               |
 | ----------------- | ---------------------------------------------------------------- |
-| Number of trailing zeros of N    | 5kyu |
+| Not very secure    | 5kyu |
+ Number of trailing zeros of N    | 5kyu |
 | Moving zeros to the end    | 5kyu |
 | String incrementer    | 5kyu |
 | Check if two words are isomorphic to each other    | 6kyu |
