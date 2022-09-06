@@ -47,25 +47,7 @@ My collection of KATAS in PHP, SQL, GO, Javascript and Java.
 | Is he gonna survive | 8kyu |
 | Super duper easy      | 8kyu |
 | The feast of many beasts    | 8kyu |
-| You cant code under pressure 1 | 8kyu |
-
-
-**SQL**
-
-| Name         | Level                                               |
-| ----------------- | ---------------------------------------------------------------- |
-| Simple exists    | 6kyu |
-| Simple full text search    | 6kyu |
-| Simple having    | 6kyu |
-| Simple in    | 6kyu |
-| Simple table totaling    | 6kyu |
-| Simple with    | 6kyu |
-| Top 10 customers by total payments amount    | 6kyu |
-| Concatening columns    | 7kyu |
-| Easy sql counting and grouping     | 7kyu |
-| Simple groupby     | 7kyu |
-| Simple join     | 7kyu |
-| Sql with street fighter total wins     | 7kyu |
+| You cant code under pressure 1 | 8ky |
 
 **Javascript**
 
@@ -89,6 +71,23 @@ My collection of KATAS in PHP, SQL, GO, Javascript and Java.
 | Spacify    | 7kyu |
 | Sum even numbers    | 7kyu |
 | Reversed string    | 8kyu |
+
+**SQL**
+
+| Name         | Level                                               |
+| ----------------- | ---------------------------------------------------------------- |
+| Simple exists    | 6kyu |
+| Simple full text search    | 6kyu |
+| Simple having    | 6kyu |
+| Simple in    | 6kyu |
+| Simple table totaling    | 6kyu |
+| Simple with    | 6kyu |
+| Top 10 customers by total payments amount    | 6kyu |
+| Concatening columns    | 7kyu |
+| Easy sql counting and grouping     | 7kyu |
+| Simple groupby     | 7kyu |
+| Simple join     | 7kyu |
+| Sql with street fighter total wins     | 7kyu |
 
 **Java**
 
