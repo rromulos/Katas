@@ -4,8 +4,6 @@ My collection of KATAS in PHP, SQL, GO, Javascript and Java.
 
 **Codewars profile**: https://www.codewars.com/users/romulos
 
-https://www.codewars.com/users/romulos/badges/large
-
 **PHP**
 
 | Name         | Level                                               |
