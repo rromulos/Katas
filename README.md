@@ -54,6 +54,7 @@ My collection of KATAS in PHP, SQL, GO, Javascript and Java.
 
 | Name         | Level                                               |
 | ----------------- | ---------------------------------------------------------------- |
+| Simple pig latin    | 5kyu |
 | Not very secure    | 5kyu |
  Number of trailing zeros of N    | 5kyu |
 | Moving zeros to the end    | 5kyu |
