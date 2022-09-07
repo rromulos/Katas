@@ -58,6 +58,7 @@ My collection of KATAS in PHP, SQL, GO, Javascript and Java.
  Number of trailing zeros of N    | 5kyu |
 | Moving zeros to the end    | 5kyu |
 | String incrementer    | 5kyu |
+| Sum of digits digitals root    | 6kyu |
 | Check if two words are isomorphic to each other    | 6kyu |
 | Unique in order    | 6kyu |
 | Multiple of 3 and 5    | 6kyu |
