@@ -49,7 +49,7 @@ My collection of KATAS in PHP, SQL, GO, Javascript and Java.
 | Is he gonna survive | 8kyu |
 | Super duper easy      | 8kyu |
 | The feast of many beasts    | 8kyu |
-| You cant code under pressure 1 | 8ky |
+| You cant code under pressure 1 | 8kyu |
 
 **Javascript**
 
