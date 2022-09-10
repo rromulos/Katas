@@ -9,6 +9,7 @@ My collection of KATAS in PHP, SQL, GO, Javascript and Java.
 | Name         | Level                                               |
 | ----------------- | ---------------------------------------------------------------- |
 | Twice Linear    | 4kyu |
+| Josephus surviver    | 5kyu |
 | Where my anagrams at    | 5kyu |
 | Rgb to hex conversion    | 5kyu |
 | The hashtag generator     | 5kyu |
