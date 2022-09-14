@@ -10,6 +10,7 @@ My collection of KATAS in PHP, SQL, GO, Javascript and Java.
 | ----------------- | ---------------------------------------------------------------- |
 | Twice Linear    | 4kyu |
 | Human readable time    | 5kyu |
+| A chain adding function    | 5kyu |
 | Josephus surviver    | 5kyu |
 | Where my anagrams at    | 5kyu |
 | Rgb to hex conversion    | 5kyu |
