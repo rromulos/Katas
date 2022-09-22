@@ -65,6 +65,7 @@ My collection of KATAS in PHP, SQL, Golang, Javascript and Java.
 | Moving zeros to the end    | 5kyu |
 | String incrementer    | 5kyu |
 | Sum of digits digitals root    | 6kyu |
+| Let's recycle   | 6kyu |
 | Does my number look big in this     | 6kyu |
 | Check if two words are isomorphic to each other    | 6kyu |
 | Unique in order    | 6kyu |
