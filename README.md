@@ -1,6 +1,6 @@
 
 # Codewars - Kata
-My collection of KATAS in PHP, SQL, Golang, Javascript and Java.
+My collection of KATAS in PHP, SQL, Golang, Javascript,Java and Kotlin.
 
 **Codewars profile**: https://www.codewars.com/users/romulos
 
