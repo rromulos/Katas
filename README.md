@@ -121,3 +121,8 @@ My collection of KATAS in PHP, SQL, Golang, Javascript and Java.
 | Returning string    | 8kyu |
 | Reversed string    | 8kyu |
 | Twice as old    | 8kyu |
+
+**Kotlin**
+| Name         | Level                                               |
+| ----------------- | ---------------------------------------------------------------- |
+| Opposite Number    | 8kyu |
