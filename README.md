@@ -9,7 +9,6 @@ My collection of KATAS in PHP, SQL, Golang, Javascript,Java and Kotlin.
 | Name         | Level                                               |
 | ----------------- | ---------------------------------------------------------------- |
 | Twice Linear    | 4kyu |
-| Twice Linear    | 4kyu |
 | Human readable time    | 5kyu |
 | A chain adding function    | 5kyu |
 | Josephus surviver    | 5kyu |
