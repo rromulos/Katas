@@ -95,7 +95,7 @@ My collection of KATAS in PHP, SQL, Golang, Javascript,Java and Kotlin.
 | Top 10 customers by total payments amount    | 6kyu |
 | Concatening columns    | 7kyu |
 | Easy sql counting and grouping     | 7kyu |
-| Simple groupby     | 7kyu |
+| Simple group by     | 7kyu |
 | Simple join     | 7kyu |
 | Sql with street fighter total wins     | 7kyu |
 
