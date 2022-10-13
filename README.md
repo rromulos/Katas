@@ -7,7 +7,7 @@ My collection of KATAS in PHP, SQL, Golang, Javascript,Java and Kotlin.
 **PHP**
 
 | Name         | Level                                               |
-| ----------------- | ---------------------------------------------------------------- |
+| ----------------- | --------------------------------------------------------------- |
 | Twice Linear    | 4kyu |
 | Human readable time    | 5kyu |
 | A chain adding function    | 5kyu |
