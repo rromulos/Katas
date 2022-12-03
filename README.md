@@ -103,8 +103,8 @@ My collection of KATAS in PHP, SQL, Golang, Javascript,Java and Kotlin.
 
 | Name         | Level                                               |
 | ----------------- | ---------------------------------------------------------------- |
-| You're a square    | 7kyu |
 | Get the middle character   | 7kyu |
+| You're a square    | 7kyu |
 | Are you playing banjo    | 8kyu |
 | Counting sheep    | 8kyu |
 | Grasshopper suummation    | 8kyu |
