@@ -39,6 +39,7 @@ My collection of KATAS in PHP, SQL, Golang, Javascript,Java and Kotlin.
 | Roman numerals decoder     | 6kyu |
 | Simple fun 79 delete a digit     | 6kyu |
 | Write number in expanded form     | 6kyu |
+| Exes and Ohs   | 7kyu |
 | Cat and mouse     | 7kyu |
 | Highest and lowest      | 7kyu |
 | Isograms      | 7kyu |
