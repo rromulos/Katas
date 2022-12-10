@@ -105,7 +105,8 @@ My collection of KATAS in PHP, SQL, Golang, Javascript,Java and Kotlin.
 
 | Name         | Level                                               |
 | ----------------- | ---------------------------------------------------------------- |
-| Take a ten minutes walk   | 6kyu |
+| Your order, please   | 6kyu |
+| Take a ten minute walk   | 6kyu |
 | Get the middle character   | 7kyu |
 | You're a square    | 7kyu |
 | Are you playing banjo    | 8kyu |
