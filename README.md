@@ -84,23 +84,6 @@ My collection of KATAS in PHP, SQL, Golang, Javascript,Java and Kotlin.
 | Sum even numbers    | 7kyu |
 | Reversed string    | 8kyu |
 
-**SQL**
-
-| Name         | Level                                               |
-| ----------------- | ---------------------------------------------------------------- |
-| Simple exists    | 6kyu |
-| Simple full text search    | 6kyu |
-| Simple having    | 6kyu |
-| Simple in    | 6kyu |
-| Simple table totaling    | 6kyu |
-| Simple with    | 6kyu |
-| Top 10 customers by total payments amount    | 6kyu |
-| Concatening columns    | 7kyu |
-| Easy sql counting and grouping     | 7kyu |
-| Simple group by     | 7kyu |
-| Simple join     | 7kyu |
-| Sql with street fighter total wins     | 7kyu |
-
 **Java**
 
 | Name         | Level                                               |
@@ -118,6 +101,23 @@ My collection of KATAS in PHP, SQL, Golang, Javascript,Java and Kotlin.
 | Remove exclamation mark    | 8kyu |
 | Remove string spaces    | 8kyu |
 | Return negative    | 8kyu |
+
+**SQL**
+
+| Name         | Level                                               |
+| ----------------- | ---------------------------------------------------------------- |
+| Simple exists    | 6kyu |
+| Simple full text search    | 6kyu |
+| Simple having    | 6kyu |
+| Simple in    | 6kyu |
+| Simple table totaling    | 6kyu |
+| Simple with    | 6kyu |
+| Top 10 customers by total payments amount    | 6kyu |
+| Concatening columns    | 7kyu |
+| Easy sql counting and grouping     | 7kyu |
+| Simple group by     | 7kyu |
+| Simple join     | 7kyu |
+| Sql with street fighter total wins     | 7kyu |
 
 **GO**
 
