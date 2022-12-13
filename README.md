@@ -89,7 +89,7 @@ My collection of KATAS in PHP, SQL, Golang, Javascript,Java and Kotlin.
 | Name         | Level                                               |
 | ----------------- | ---------------------------------------------------------------- |
 | Detect Pangram  | 6kyu |
-| Stop gninnips my sdrow!  | 6kyu |
+| Stop gninnips my sdroW!  | 6kyu |
 | Your order, please   | 6kyu |
 | Take a ten minute walk   | 6kyu |
 | Get the middle character   | 7kyu |
