@@ -130,6 +130,9 @@ My collection of KATAS in PHP, SQL, Golang, Javascript,Java and Kotlin.
 | Returning string    | 8kyu |
 | Reversed string    | 8kyu |
 | Twice as old    | 8kyu |
+| Convert a Number to a String!   | 8kyu |
+| Opposite number   | 8kyu |
+| Even or Odd   | 8kyu |
 
 **Kotlin**
 | Name         | Level                                               |
