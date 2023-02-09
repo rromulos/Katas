@@ -124,6 +124,7 @@ My collection of KATAS in PHP, SQL, Golang, Javascript,Java and Kotlin.
 
 | Name         | Level                                               |
 | ----------------- | ---------------------------------------------------------------- |
+| Two fighters one winner  | 7kyu |
 | Growth of a Population  | 7kyu |
 | Jaden casing strings    | 7kyu |
 | Get planet name by id    | 8kyu |
