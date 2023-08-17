@@ -124,6 +124,7 @@ My collection of KATAS in PHP, SQL, Golang, Javascript,Java and Kotlin.
 
 | Name         | Level                                               |
 | ----------------- | ---------------------------------------------------------------- |
+| Duplicat encoder | 6kyu |
 | A Rule of Divisibility by 7 | 7kyu |
 | Two fighters one winner  | 7kyu |
 | Growth of a Population  | 7kyu |
