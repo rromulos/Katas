@@ -8,6 +8,7 @@ My collection of KATAS in PHP, SQL, Golang, Javascript,Java and Kotlin.
 
 | Name         | Level                                               |
 | ----------------- | --------------------------------------------------------------- |
+| Sudoku Solver    | 3kyu |
 | Twice Linear    | 4kyu |
 | Human readable time    | 5kyu |
 | A chain adding function    | 5kyu |
