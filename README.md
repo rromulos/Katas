@@ -60,6 +60,7 @@ My collection of KATAS in PHP, SQL, Golang, Javascript,Java and Kotlin.
 
 | Name         | Level                                               |
 | ----------------- | ---------------------------------------------------------------- |
+| Human readable duration format    | 4kyu |
 | Rot13    | 5kyu |
 | Simple pig latin    | 5kyu |
 | Not very secure    | 5kyu |
