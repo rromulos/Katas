@@ -126,6 +126,7 @@ My collection of KATAS in PHP, SQL, Golang, Javascript,Java and Kotlin.
 | ----------------- | ---------------------------------------------------------------- |
 | Duplicat encoder | 6kyu |
 | Pick Peaks | 5kyu |
+| Array element parity | 7kyu |
 | A Rule of Divisibility by 7 | 7kyu |
 | Two fighters one winner  | 7kyu |
 | Growth of a Population  | 7kyu |
