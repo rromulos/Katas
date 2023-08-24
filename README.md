@@ -40,6 +40,9 @@ My collection of KATAS in PHP, SQL, Golang, Javascript,Java and Kotlin.
 | Roman numerals decoder     | 6kyu |
 | Simple fun 79 delete a digit     | 6kyu |
 | Write number in expanded form     | 6kyu |
+| Number of people in the bus | 7kyu |
+| Two to one   | 7kyu |
+| Square every digit   | 7kyu |
 | Exes and Ohs   | 7kyu |
 | Cat and mouse     | 7kyu |
 | Highest and lowest      | 7kyu |
@@ -95,15 +98,48 @@ My collection of KATAS in PHP, SQL, Golang, Javascript,Java and Kotlin.
 | Stop gninnips my sdroW!  | 6kyu |
 | Your order, please   | 6kyu |
 | Take a ten minute walk   | 6kyu |
+| Descending Order | 7kyu |
+| Disemvowel Trolls | 7kyu |
 | Get the middle character   | 7kyu |
 | You're a square    | 7kyu |
 | Are you playing banjo    | 8kyu |
 | Counting sheep    | 8kyu |
-| Grasshopper suummation    | 8kyu |
+| Grasshopper summation    | 8kyu |
 | Keep hydrated    | 8kyu |
 | Parse nice int from char problem    | 8kyu |
 | Remove exclamation mark    | 8kyu |
 | Remove string spaces    | 8kyu |
+| Return negative    | 8kyu |
+
+**GO**
+
+| Name         | Level                                               |
+| ----------------- | ---------------------------------------------------------------- |
+| Pick Peaks | 5kyu |
+| Duplicat encoder | 6kyu |
+| Vowel count | 7kyu |
+| Disemvowel Trolls | 7kyu |
+| Array element parity | 7kyu |
+| A Rule of Divisibility by 7 | 7kyu |
+| Two fighters one winner  | 7kyu |
+| Growth of a Population  | 7kyu |
+| Jaden casing strings    | 7kyu |
+| Convert boolean values to strings 'Yes' or 'No'. | 8kyu |
+| Square n Sum    | 8kyu |
+| Remove First and Last Character | 8kyu |
+| String repeat | 8kyu |
+| Find the smallest integer in the array    | 8kyu |
+| Grasshopper summation    | 8kyu |
+| Remove string spaces | 8kyu |
+| Convert a String to a Number! | 8kyu |
+| Get planet name by id    | 8kyu |
+| Returning string    | 8kyu |
+| Reversed string    | 8kyu |
+| Twice as old    | 8kyu |
+| Convert a Number to a String!   | 8kyu |
+| Opposite number   | 8kyu |
+| Even or Odd   | 8kyu |
+| Sum of positive | 8kyu |
 | Return negative    | 8kyu |
 
 **SQL**
@@ -122,25 +158,6 @@ My collection of KATAS in PHP, SQL, Golang, Javascript,Java and Kotlin.
 | Simple group by     | 7kyu |
 | Simple join     | 7kyu |
 | Sql with street fighter total wins     | 7kyu |
-
-**GO**
-
-| Name         | Level                                               |
-| ----------------- | ---------------------------------------------------------------- |
-| Duplicat encoder | 6kyu |
-| Pick Peaks | 5kyu |
-| Array element parity | 7kyu |
-| A Rule of Divisibility by 7 | 7kyu |
-| Two fighters one winner  | 7kyu |
-| Growth of a Population  | 7kyu |
-| Jaden casing strings    | 7kyu |
-| Get planet name by id    | 8kyu |
-| Returning string    | 8kyu |
-| Reversed string    | 8kyu |
-| Twice as old    | 8kyu |
-| Convert a Number to a String!   | 8kyu |
-| Opposite number   | 8kyu |
-| Even or Odd   | 8kyu |
 
 **Kotlin**
 | Name         | Level                                               |
