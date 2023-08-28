@@ -118,6 +118,7 @@ My collection of KATAS in PHP, SQL, Golang, Javascript,Java and Kotlin.
 | Pick Peaks | 5kyu |
 | Duplicat encoder | 6kyu |
 | Vowel count | 7kyu |
+| Highest and Lowest | 7kyu |
 | Disemvowel Trolls | 7kyu |
 | Array element parity | 7kyu |
 | A Rule of Divisibility by 7 | 7kyu |
