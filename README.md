@@ -9,6 +9,7 @@ My collection of KATAS in PHP, SQL, Golang, Javascript,Java and Kotlin.
 | Name         | Level                                               |
 | ----------------- | --------------------------------------------------------------- |
 | Sudoku Solver    | 3kyu |
+| Sum Strings as Numbers | 4kyu |
 | Range Extraction    | 4kyu |
 | Twice Linear    | 4kyu |
 | Human readable time    | 5kyu |
