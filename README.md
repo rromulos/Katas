@@ -119,6 +119,7 @@ My collection of KATAS in PHP, SQL, Golang, Javascript,Java and Kotlin.
 | ----------------- | ---------------------------------------------------------------- |
 | Pick Peaks | 5kyu |
 | Duplicat encoder | 6kyu |
+| The Spiraling Box | 7kyu |
 | Vowel count | 7kyu |
 | Highest and Lowest | 7kyu |
 | Disemvowel Trolls | 7kyu |
